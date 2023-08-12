@@ -1,0 +1,12 @@
+body {
+    background-color: blueviolet;
+    }
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+header li {
+    list-style: none;
+
+}
