@@ -65,15 +65,15 @@ header a {
 
 
 #hero {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/assets/images/hero-image.jpg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/yoga/assets/images/hero-image.jpg');
 }
 
 #about {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/assets/images/yoga-in-nature.jpg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/yoga/assets/images/yoga-in-nature.jpg');
 }
 
 #contact {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/assets/images/yoga-in-studio.jpg');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url('/yoga/assets/images/yoga-in-studio.jpg');
 }
 
 img {
